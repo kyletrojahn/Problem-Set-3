@@ -29,5 +29,3 @@ AnalysisFunction <- function(x, training)
     return(x)
   }
 }
-
-?rnorm()
